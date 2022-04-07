@@ -17,7 +17,7 @@ function Home() {
 
     return (
         <div className="home">
-            <h1 onClick={() => history.push("/")}>Cratable</h1>
+            <h1 onClick={() => history.push("/")}>The Cratable</h1>
             <p className="beta__flag">i'm beta version</p>
             <h2>Breaking the barriers to learn 🚀</h2>
             {

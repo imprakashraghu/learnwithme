@@ -5,7 +5,7 @@ function About() {
         <div className="general">
             <h1>What is Cratable ❤️</h1>
             <h2>Brief</h2>
-            <p><a href="/">Cratable (beta)</a> is a website that allows people to look for a content and help them to guide or learn a particular thing, whatever it may be. Here all the results are from the internet.</p>
+            <p><a href="/">The Cratable (beta)</a> is a website that allows people to look for a content and help them to guide or learn a particular thing, whatever it may be. Here all the results are from the internet.</p>
             <h2>Our Goal</h2>
             <p>The main thing about using <a href="/">Cratable (beta)</a> is that it creates an environment where it breaks all the barriers and let the people to learn anything without being lost somewhere on the internet.</p>
             <h2>Cratable (beta)</h2>
@@ -13,7 +13,7 @@ function About() {
             <h2>Show some support</h2>
             <p>You could share this website to your friends and famiy so thatit becomes usefull to someone in the planet.</p>
             <h2>Contact</h2>
-            <a href="mailto:prakashjaw05@gmail.com">Email</a>
+            <a href="mailto:prakashjaw@hotmail.com">Email</a>
             <a href="https://instagram.com/imprakashraghu">Instagram DM </a>
             <br/>
         </div>
