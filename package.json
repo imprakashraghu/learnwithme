@@ -2,7 +2,7 @@
   "name": "cratable-beta",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://imprakashraghu.github.io/thecratable",
+  "homepage": "https://imprakashraghu.github.io/the-cratable",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
