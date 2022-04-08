@@ -29,7 +29,7 @@ function Module() {
 
     return (
         <div className="module">
-            <h1 onClick={() => history.push("/")}>Cratable</h1>
+            <h1 onClick={() => history.push("/")}>Learn With Me</h1>
             <p className={key==='ui'?"exclusive":"beta__flag"}>{key==='ui'?'exclusive module just for you 🙈':'i am beta version'}</p>
             <h2>Module: <strong>{module?.title}</strong></h2>
             <h3>{module?.description}</h3>

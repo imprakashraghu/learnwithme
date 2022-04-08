@@ -23,7 +23,7 @@ function Category() {
 
     return (
         <div className="category">
-            <h1 onClick={() => history.push("/")}>Cratable</h1>
+            <h1 onClick={() => history.push("/")}>Learn With Me</h1>
             <p className="beta__flag">i'm beta version</p>
             <h2>Category: <strong>{category?.title}</strong></h2>
             <div className="category__body">
